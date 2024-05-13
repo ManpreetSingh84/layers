@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: all;
+  src: url(./font/FUTURA55REGULAR.TTF);
+}
